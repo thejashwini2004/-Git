@@ -1,2 +1,2 @@
 # -Git
-Author - Tejashwini
+Author - Thejashwini
